@@ -4,18 +4,18 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
-    "dev" :"nodemon src/app.js -e js,hbs"
+    "dev": "nodemon src/app.js -e js,hbs"
   },
   "keywords": [],
   "author": "sdahal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "hbs": "^4.0.1",
+    "hbs": "^4.0.4",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "nodemon": "^1.2.0"
+    "nodemon": "^1.18.11"
   },
   "repository": {
     "type": "git",
