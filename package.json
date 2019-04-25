@@ -1,0 +1,26 @@
+{
+  "name": "nodejsweatherapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sdahal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tcg02/nodejsWeatherApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tcg02/nodejsWeatherApp/issues"
+  },
+  "homepage": "https://github.com/tcg02/nodejsWeatherApp#readme",
+  "description": ""
+}
